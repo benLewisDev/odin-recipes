@@ -5,8 +5,17 @@
     text-align: center;
 }
 
+img {
+    height: 450px;
+    width: auto;
+}
+
+a {
+    color: rgb(75, 75, 180);
+}
+
 h1 {
-    font-size: 70px;
+    font-size: 90px;
 }
 
 h2 {
@@ -15,8 +24,8 @@ h2 {
 
 .main-list {
     font-size: 50px;
-    list-style-position: inside;
-    
+    list-style: none;
+    padding-left: 10px;
 }
 
 .ingredientsList {
